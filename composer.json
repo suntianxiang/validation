@@ -1,0 +1,18 @@
+{
+    "name": "suntianxiang/validation",
+    "description": "A Data Validation component",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sun tianxiang",
+            "email": "334965556@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Validation\\": "src"
+        }
+    },
+    "require": {}
+}
